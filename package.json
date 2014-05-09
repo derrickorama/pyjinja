@@ -1,0 +1,5 @@
+{
+    "name": "pyjinja",
+    "version": "0.0.1",
+    "description": "Render views with Python's Jinja2 templating engine."
+}
